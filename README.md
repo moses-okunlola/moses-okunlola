@@ -1,13 +1,13 @@
 ## Hi, I'm Moses 👋
 
-I'm a data analyst with around seven years' experience in compensation, benefits, and payroll analytics, now focused on decision-focused data analytics and people analytics. I'm completing a Master's in Economic Intelligence (Behavioural & Digital Economics) and building a portfolio that turns messy HR and business data into decisions leaders can act on.
+I'm a data analyst with previous experience in compensation, benefits, and payroll analytics, now focusing on decision-focused data analytics and people analytics. I'm completing a Master's in Economic Intelligence (Behavioural & Digital Economics) and building a portfolio that turns messy HR and business data into decisions leaders can act on.
 
 🔧 **What I work with**
 Power BI · DAX · Excel/Power Query · SQL · Python (pandas) 
 
 🤖 **AI in my workflow**
 
-I use AI tools (Claude, ChatGPT) to accelerate analysis, prototype faster, and build LLM-assisted workflows, while keeping judgment, validation, and interpretation my own.
+I use AI tools (Claude, ChatGPT, Gemini) to accelerate analysis, prototype faster, and build LLM-assisted workflows, while keeping judgment, validation, and interpretation my own.
 
 📊 **What I care about**
 Clean, well-documented analysis; translating numbers into business language; and handling sensitive data (especially people data) responsibly.
