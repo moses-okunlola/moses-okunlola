@@ -8,7 +8,7 @@
 ## 🚀 About Me
 I am a Data Analyst with a strong quantitative foundation across **Python, SQL, Power BI, and Google Cloud**, backed by an MSc in **Economic Intelligence (Behavioural & Digital Economics)**.
 
-My work spans the full analytics and digitalisation lifecycle—from untangling messy operational datasets and engineering automated ETL pipelines to building predictive models and executive decision engines. Whether diagnosing commercial revenue streams, evaluating e-commerce consumer retention, or architecting AI-powered operational self-service tools, I focus on turning complex data into clear, scalable business value.
+My work spans the full analytics and digitalisation lifecycle from untangling messy operational datasets and engineering automated ETL pipelines to building predictive models and executive decision engines. Whether diagnosing commercial revenue streams, evaluating e-commerce consumer retention, or architecting AI-powered operational self-service tools, I focus on turning complex data into clear, scalable business value.
 
 ---
 
